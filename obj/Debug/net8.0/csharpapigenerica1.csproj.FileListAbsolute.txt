@@ -17,6 +17,7 @@ C:\Users\Windows\Desktop\Construccion_de_software\proyecto\csharpapigenerica1\ob
 C:\Users\Windows\Desktop\Construccion_de_software\proyecto\csharpapigenerica1\obj\Debug\net8.0\csharpapigenerica1.csproj.CoreCompileInputs.cache
 C:\Users\Windows\Desktop\Construccion_de_software\proyecto\csharpapigenerica1\obj\Debug\net8.0\csharpapigenerica1.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Windows\Desktop\Construccion_de_software\proyecto\csharpapigenerica1\obj\Debug\net8.0\csharpapigenerica1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows\Desktop\Construccion_de_software\proyecto\csharpapigenerica1\obj\Debug\net8.0\csharpapigenerica1.sourcelink.json
 C:\Users\Windows\Desktop\Construccion_de_software\proyecto\csharpapigenerica1\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Windows\Desktop\Construccion_de_software\proyecto\csharpapigenerica1\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Windows\Desktop\Construccion_de_software\proyecto\csharpapigenerica1\obj\Debug\net8.0\staticwebassets\msbuild.csharpapigenerica1.Microsoft.AspNetCore.StaticWebAssets.props
