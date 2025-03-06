@@ -1,0 +1,6 @@
+@csharpapigenerica1_HostAddress = http://localhost:5289
+
+GET {{csharpapigenerica1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
